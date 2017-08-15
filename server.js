@@ -1,3 +1,6 @@
+/*node program to subscribe to salesforce platform events
+*/
+
 let nforce = require('nforce');
 let faye = require('faye');
 let express = require('express');
